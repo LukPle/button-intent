@@ -8,7 +8,10 @@ The button-intent app contains a **Button** that triggers an **Intent** to anoth
 The application serves as an example of these features.
 
 ## Features
-The setting of the app is a login screen. The user can access the next screen by clicking the Button.
+The setting of the app is a login screen. The user can access the next screen by clicking the Button. </br>
+
+![](demo_pictures/Screen1.png)
+![](demo_pictures/Screen2.png)
 
 ## Usage
 You can clone the repository into Android Studio by clicking "Get from VCS" in the Welcome Screen or navigating to "File - New - Project from Version Control" inside 
